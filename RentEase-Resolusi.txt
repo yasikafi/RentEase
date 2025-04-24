@@ -1,0 +1,23 @@
+OBJECTIVE RentEase
+  Menyelesaikan fitur utama
+   - [x] Fitur Sign Up & Login
+   - [DOING] Sistem Pembayaran
+   - [ ] Manajemen Kendaraan (CRUD Mobil)
+   - [ ] History Order
+   - [ ] Review & Rating Kendaraan
+   - [On Hold] Chat antar penyewa dan pemilik
+
+Resolusi RentEase
+[] Menyediakan tampilan UI/UX yang user-friendly:
+   - Desain responsif untuk mobile dan desktop
+   - Navigasi sederhana untuk pemesanan cepat
+
+[] Mengintegrasikan sistem loyalty member:
+   - Member Bronze, Silver, Gold berdasarkan riwayat sewa
+   - Diskon & promo khusus member
+
+[] Membangun sistem income dashboard untuk pemilik kendaraan:
+   - Laporan pemasukan per kendaraan
+   - Filter berdasarkan tanggal & jumlah sewa
+
+[] Monitoring & Evaluasi:
